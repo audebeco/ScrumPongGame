@@ -12,6 +12,7 @@
   "dependencies": {
     "common-env": "^6.3.0",
     "express": "^4.16.3",
+    "nodemon": "^1.18.10",
     "pg": "^7.6.0"
   },
   "devDependencies": {
